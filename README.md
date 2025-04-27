@@ -32,30 +32,6 @@ YouTube Embeds for videos
 
 Google Fonts (Poppins)
 
-📸 Screenshot
-Home Page Preview:
-
-
-(You can replace this link with an actual screenshot of your homepage later!)
-
-🔗 Live Demo
-If you upload this project to GitHub Pages, Netlify, or Vercel, you can add a live link here, like:
-
-arduino
-Copy
-Edit
-https://your-username.github.io/your-project-name/
-🚀 How to Run Locally
-Download or Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/your-project-name.git
-Open the folder.
-
-Open index.html in your browser.
-
 📬 Contact
 Muhammad Zakariya
 
