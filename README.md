@@ -64,16 +64,4 @@ Email: zakariyak644@gmail.com
 Phone: 0311-9223169
 
 ❤️ Thank you for visiting!
-Would you also like me to give you a copy-paste ready folder structure, like:
 
-lua
-Copy
-Edit
-/project-folder
-|-- index.html
-|-- hobbies.html
-|-- media.html
-|-- contact.html
-|-- /images
-|   |-- (your pictures)
-|-- README.md
